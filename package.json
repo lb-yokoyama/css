@@ -1,0 +1,26 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "css playground",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nominalrune/css.git"
+  },
+  "author": "yoshinori yokoyam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nominalrune/css/issues"
+  },
+  "homepage": "https://github.com/nominalrune/css#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "node-ts": "^5.1.1",
+    "typescript": "^4.1.3"
+  }
+}
